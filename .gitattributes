@@ -1,0 +1,5 @@
+* text=auto
+*.c text eol=lf
+*.h text eol=lf
+*.mk text eol=lf
+*.oil text eol=lf
